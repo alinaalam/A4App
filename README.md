@@ -1,6 +1,7 @@
 # A4app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
+The tutorial that was followed for this project was: https://www.youtube.com/watch?v=KhzGSHNhnbI
 
 ## Development server
 
